@@ -1,5 +1,5 @@
-# PSP4LNC: Progressive Self-Supervised and Prompt-Based Learning for Long-Tail Node Classification
-The official source code for 《PSP4LNC: Progressive Self-Supervised and Prompt-Based Learning for Long-Tail Node Classification》 paper.
+# PSP4LNC: Progressive Self-Supervised and Prompt Learning for Long-Tail Node Classification
+The official source code for 《PSP4LNC: Progressive Self-Supervised and Prompt Learning for Long-Tail Node Classification》 paper.
 ## Requirements
 
 - **python version:** 3.9.21
