@@ -1,5 +1,5 @@
-# A Novel Progressive Learning Approach with Prompts for Long-Tail Node Classification
-The official source code for 《A Novel Progressive Learning Approach with Prompts for Long-Tail Node Classification》 paper.
+# PLAP: An Effective Progressive Learning Approach with Prompts for Long-Tail Node Classification
+The official source code for 《PLAP: An Effective Progressive Learning Approach with Prompts for Long-Tail Node Classification》 paper.
 ## Requirements
 
 - **python version:** 3.9.21
